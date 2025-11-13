@@ -1,0 +1,24 @@
+:root {
+  /* Colores principales */
+  --color-azul-blanco: #FCFFFF;
+  --color-amarillo: #FFCA00;
+  --color-cian-brillante: #77E3EE;
+  --color-gris-oscuro: #2A2F3D;
+
+  /* Tonos oscuros adicionales */
+  --color-azul-profundo: #0D1429;
+  --color-azul-noche: #11162A;
+  --color-azul-sombra: #151B2E;
+  --color-azul-oscuro: #1A2036;
+
+  /* Tipografía y tamaños base */
+  --font-size-base: 16px;
+  --font-size-titulo: 2rem;
+  --font-size-subtitulo: 1.25rem;
+  --font-size-pequeño: 0.875rem;
+
+  /* Espaciado y bordes */
+  --radius-base: 8px;
+  --radius-grande: 16px;
+  --espaciado-base: 1rem;
+}
